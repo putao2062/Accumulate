@@ -8,7 +8,7 @@
 
    **图片：**
 
-   ![bootstrap  在线布局    ](img/bootstraplayout.png)
+   ![bootstrap  在线布局    ](./img/bootstraplayout.png)
 
    ​
 
@@ -24,7 +24,7 @@
 
 ​    **图片：**
 
-   ![菜鸟工具一览  ](img/crunoob.png)
+   ![菜鸟工具一览  ](./img/crunoob.png)
 
 
 
