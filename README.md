@@ -32,8 +32,10 @@
 
 
 
-3. 快速生成placeholder 图片
+3.快速生成placeholder 图片
 
-   **链接：** https://placeholder.com/
+**链接：** https://placeholder.com
 
-   生成任意宽高的 灰色图片，图片上带尺寸信息，没有ps软件的时候，这个可以暂时顶上。
+
+
+> 生成任意宽高的 灰色图片，图片上带尺寸信息，没有ps软件的时候，这个可以暂时顶上。
