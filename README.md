@@ -55,3 +55,15 @@
 **链接**：https://www.fotor.com.cn/
 
 ![](./img/fotor.png)
+
+
+
+## Online learning
+
+1、给程序员的设计学习指南
+
+**链接**： http://www.cocoachina.com/special/design/  
+
+> 对于一个在学习上有追求的人，这个网站正和我意。让我来更懂设计师。
+
+![](./img/cocoachina.png)
