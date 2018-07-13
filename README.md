@@ -58,6 +58,14 @@
 
 
 
+5、 在线 前端计算文件 hash 值 
+
+**链接：**   https://helloacm.com/compute-file-hash/   
+
+![](./img/helloacm.png)
+
+
+
 ## Online learning
 
 1、给程序员的设计学习指南
@@ -67,3 +75,6 @@
 > 对于一个在学习上有追求的人，这个网站正和我意。让我来更懂设计师。
 
 ![](./img/cocoachina.png)
+
+
+
