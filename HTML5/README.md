@@ -45,3 +45,5 @@ docment.createElement('header');
 ### XMLHttpRequest Level 2
 > XMLHttpRequest Level 2 规范通过一些新特性增强了核心 XMLHttpRequest 对象。其中最有趣的大概就是 Cross-Origin Resource Sharing 了，它一种绕过同源安全策略的安全方式，可以实现 XMLHttpRequest 与第三方服务器交互。
 
+## HTML5中新事件属性
+> onabort, onbeforeunload, oncontextmenu, ondrag, ondragend, ondragenter, ondragleave, ondragover, ondragstart, ondrop, onerror, onmessage, onmousewheel, onresize, onscroll, onunload。
