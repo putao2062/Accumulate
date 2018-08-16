@@ -47,3 +47,6 @@ docment.createElement('header');
 
 ## HTML5中新事件属性
 > onabort, onbeforeunload, oncontextmenu, ondrag, ondragend, ondragenter, ondragleave, ondragover, ondragstart, ondrop, onerror, onmessage, onmousewheel, onresize, onscroll, onunload。
+
+## HTML5中的新属性
+> HTML 5标签中的新属性有：contenteditable, contextmenu, draggable, irrelevant, ref,registrationmark, template
