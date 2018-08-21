@@ -9,3 +9,9 @@
 
 > [简单的jQuery定时器使用方法——简书](https://www.jianshu.com/p/6a8ce88c7f02)  这篇博客是2016年的。
 
+### BootstrapDialog
+
+> [bootstrap3-dialog——github](https://github.com/nakupanda/bootstrap3-dialog) 基于bootstrap 的会话框插件 
+
+> [Bootstrap之BootstrapDialog——博客园](https://www.cnblogs.com/my-air/p/5338125.html)
+
