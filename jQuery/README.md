@@ -15,7 +15,7 @@
 
 > [Bootstrap之BootstrapDialog——博客园](https://www.cnblogs.com/my-air/p/5338125.html)
 
-### 
+### ootstrapvalidator
 
 > [bootstrapvalidator-github](https://github.com/nghuuphuoc/bootstrapvalidator) 基于bootstrap的表单验证插件
 
