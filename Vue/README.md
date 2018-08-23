@@ -59,8 +59,17 @@
     </tr>
     ```
    
-   
-   
+4. **[树形视图](https://cn.vuejs.org/v2/examples/tree-view.html)** 
+
+   > 该示例是一个简单的树形视图实现，它展现了组件的递归使用。
+
+   > 用到了 计算属性，data属性，本文三元运算，`v-if`指令 `v-show`指令 `v-for`指令，嵌套调用item组件。
+
+   > 计算属性的运用，判断该item的model数据中是否有children属性来设置isFolder的布尔值
+
+   > 子组件中的props中的属性在methods的函数中可以通过this点的方式调用，methods中的方法也可以通过this点的方法调用 
+
+   > Vue.set( target, key, value ) `Vue.set(this.model, 'children', [])` 设置属性值
 
 
 
