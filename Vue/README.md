@@ -119,6 +119,14 @@
     > 该示例是一个完全和规范一致的 TodoMVC 实现，只用了 120 行有效的 JavaScript (不包含注释和空行)。
     
     用到了`v-cloak` 指令，这个指令保持在元素上直到关联实例结束编译，用来隐藏元素？延后加载？
+    
+12. **[HackerNews 克隆](https://cn.vuejs.org/v2/examples/hackernews.html)**
+
+    > HackerNews 克隆是基于 HN 的官方 firebase API 、Vue 2.0 、Vue Router 和 Vuex 来构建的，使用服务器端渲染。
+    
+    > 示例代码在github https://github.com/vuejs/vue-hackernews-2.0
+    
+    这个示例有结构图
    
    
    
