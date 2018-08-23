@@ -63,13 +63,25 @@
 
    > 该示例是一个简单的树形视图实现，它展现了组件的递归使用。
 
-   > 用到了 计算属性，data属性，本文三元运算，`v-if`指令 `v-show`指令 `v-for`指令，嵌套调用item组件。
+    用到了 计算属性，data属性，本文三元运算，`v-if`指令 `v-show`指令 `v-for`指令，嵌套调用item组件（重点是数据的结构）。
 
-   > 计算属性的运用，判断该item的model数据中是否有children属性来设置isFolder的布尔值
+    计算属性的运用，判断该item的model数据中是否有children属性来设置isFolder的布尔值
 
-   > 子组件中的props中的属性在methods的函数中可以通过this点的方式调用，methods中的方法也可以通过this点的方法调用 
+    子组件中的props中的属性在methods的函数中可以通过this点的方式调用，methods中的方法也可以通过this点的方法调用 
 
-   > Vue.set( target, key, value ) `Vue.set(this.model, 'children', [])` 设置属性值
+    Vue.set( target, key, value ) `Vue.set(this.model, 'children', [])` 设置属性值
+    
+5. **[SVG图表](https://cn.vuejs.org/v2/examples/svg.html)**
 
+   > 该示例展示了一个结合体，它由常用组件、计算属性、2 种绑定方式和 SVG 的支持组成。
+   里面用到了svg的多边形标签，圆形标签，文本标签，可以看下该示例中的值转换成点坐标的帮助函数，里面都是初中的几何知识.....其实都很简单，就是不用会觉得陌生。
+   
+   > 组件中定义的组件只能在父模板中调用. 
 
+6. **[模式组件](https://cn.vuejs.org/v2/examples/modal.html)**
 
+   > 使用到的特性：组件，prop 传递，内容插入(content insertion)，过渡 (transitions)
+   
+   1、父组件可以使用 props 把数据传给子组件。
+   2、子组件可以使用 $emit 触发父组件的自定义事件。
+   vue 提供了内置的过渡封装组件，感觉这种组件的使用方式很奇怪
