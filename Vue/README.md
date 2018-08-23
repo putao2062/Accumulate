@@ -97,6 +97,18 @@
 
    > 该例中，整合了第三方 jQuery 插件 (select2)，怎么做到的呢？就是把它内嵌在一个常用组件中。
    
-   > 下拉列表的选择，用到了`this.$el`可以直接操作dom ,这个例子有点没看明白啊~  用到了https://select2.org/  jq插件select2,得先去看这个插件....
+    下拉列表的选择，用到了`this.$el`可以直接操作dom ,这个例子有点没看明白啊~  用到了https://select2.org/  jq插件select2,得先去看这个插件....
+    
+9. **[实时 deepstreamHub](https://cn.vuejs.org/v2/examples/deepstream.html)**
+
+   > 这个例子使用 deepstreamHub 在客户端之间实时同步数据、发送事件、远程程序调用 (可以多开几个浏览器窗口试一试)。
+   
+   > https://cdnjs.cloudflare.com/ajax/libs/deepstream.io-client-js/2.1.1/deepstream.js
+   
+   这个示例中使用了多个组件，可以看看该示例的代码组织方式  
+   
+
+
+   
    
    
