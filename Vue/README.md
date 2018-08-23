@@ -93,4 +93,10 @@
    交互，拖拽头部div可以产生果冻效果 。用到了 http://dynamicsjs.com  这个js。
    svg path 路径中的值引用data中的属性，动态改变对应的data属性值产生交互效果
    
+8. **[内嵌组件 ](https://cn.vuejs.org/v2/examples/select2.html)**
+
+   > 该例中，整合了第三方 jQuery 插件 (select2)，怎么做到的呢？就是把它内嵌在一个常用组件中。
+   
+   > 下拉列表的选择，用到了`this.$el`可以直接操作dom ,这个例子有点没看明白啊~  用到了https://select2.org/  jq插件select2,得先去看这个插件....
+   
    
