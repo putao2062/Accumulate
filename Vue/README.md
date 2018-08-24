@@ -109,10 +109,10 @@
    
 10. **[Firebase + 验证](https://cn.vuejs.org/v2/examples/firebase.html)**
 
-   > 该示例使用 Firebase 作为数据存储后端，同时在客户端进行数据实时同步 (可以在多个浏览器窗口去打开它来验证)。
-   另外，它通过计算属性实时验证，并且添加／移除选项时触发 CSS 过渡。
+    > 该示例使用 Firebase 作为数据存储后端，同时在客户端进行数据实时同步 (可以在多个浏览器窗口去打开它来验证)。
+    另外，它通过计算属性实时验证，并且添加／移除选项时触发 CSS 过渡。
    
-   有表单验证，以及数据动态添加  。写表单验证的时候可以看看该示例 
+    有表单验证，以及数据动态添加  。写表单验证的时候可以看看该示例 
 
 11. **[TodoMVC](https://cn.vuejs.org/v2/examples/todomvc.html)**
 
@@ -127,6 +127,17 @@
     > 示例代码在github https://github.com/vuejs/vue-hackernews-2.0
     
     这个示例有结构图
+   
+##  vue.js 与后台数据交互
+
+   > 搜到的博客 [vue.js与后台数据交互](https://blog.csdn.net/qq_17505335/article/details/79137758) ->  [vue-resource插件使用](http://www.cnblogs.com/axl234/p/5899137.html) ->[ webpack+vue项目实战（四，前端与后端的数据交互和前端展示数据）](https://segmentfault.com/a/1190000010063757) 
+   
+### vue-resource
+
+> [vue-resource-github](https://github.com/pagekit/vue-resource)
+
+> 这是个Vue.js的插件，提供了使用XMLHttpRequest或JSONP 发出Web请求和处理响应的服务
+   
    
    
    
