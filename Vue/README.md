@@ -138,6 +138,10 @@
 
 > 这是个Vue.js的插件，提供了使用XMLHttpRequest或JSONP 发出Web请求和处理响应的服务
    
-   
+## vue 相关应用框架
+
+>  [NUXT-vue.js通用应用框架](https://zh.nuxtjs.org/)
+
+>  [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
    
    
