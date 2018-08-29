@@ -138,6 +138,18 @@
 
 > 这是个Vue.js的插件，提供了使用XMLHttpRequest或JSONP 发出Web请求和处理响应的服务
    
+> [vue axios全攻略-blog](https://www.cnblogs.com/libin-1/p/6607945.html)   这篇博客里说vue-resource不再继续维护，然后axios被越来越多的人知道
+
+> axios具有以下特征
+> - 从浏览器中创建 XMLHttpRequest
+> - 从 node.js 发出 http 请求
+> - 支持 Promise API
+> - 拦截请求和响应
+> - 转换请求和响应数据
+> - 取消请求
+> - 自动转换JSON数据
+> - 客户端支持防止 CSRF/XSRF
+ 
 ## vue 相关应用框架
 
 >  [NUXT-vue.js通用应用框架](https://zh.nuxtjs.org/)
