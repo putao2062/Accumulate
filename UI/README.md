@@ -5,3 +5,9 @@
 > [图形艺术家的色彩及意义](https://www.lifewire.com/color-symbolism-information-1073947)
 
 > [原型设计的重要性你真的知道吗？-csdn](https://blog.csdn.net/jongde1/article/details/72830254?locationNum=9&fps=1)
+
+## 素材
+
+> [千图网](http://www.58pic.com/) 里面有中国风的精美海报插画
+
+> [17素材](http://www.17sucai.com/) 和千图网不同的是这里面有相关效果的代码实现   映像深刻的是404动画特效
