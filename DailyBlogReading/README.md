@@ -1,5 +1,10 @@
 # Daily Blog Reading
 
+## 宝藏博客
+
+1. [从html5Canvas海草舞代码解读中发现的github链接继而找到的博客](https://rosszurowski.com/)   沉稳风格英文
+2. [从百度webpack不适用的场景阅读转载博客时发现的博客](http://refined-x.com/)  简约黑白风格 中文
+
 ## 多读几遍
 
 ## 博客阅读记录
