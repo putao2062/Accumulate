@@ -1,14 +1,14 @@
 # App
 
 ## web-app
-  能完成特定功能的网页？
+  能完成特定功能的网页
   运行在浏览器中。
 ## hybrid app
-  嵌入到应用中的网页？
+  嵌入到应用中的网页
   [Android Webview](https://developer.android.com/reference/android/webkit/WebView)
   
 ## native-app
- 手机端应用？
+ 手机端应用
 ###  Android  
  Java 语言
 ###  Ios  
@@ -36,3 +36,15 @@
 ### AngularJS
 
 > [AngularJs-中文网](http://www.angularjs.net.cn/)
+
+## 单页应用与多页应用
+
+### 单页应用
+> 就是只有一张Web页面的应用，是加载单个HTML页面并在用户与应用交互时动态更新该页面的web应用程序 。 浏览器一开始会加载必需的HTML、CSS和JavaScript，所有的操作都在这张页面上完成，都由JavaScript来控制。因此，对单页应用来说模块化的开发和设计显得相当重要。 —— 来自[百度百科](https://baike.baidu.com/item/SPA/17536313?fr=aladdin) 
+
+**特点** ： 速度、MVVM、ajax重前端、路由（在URL中采用#号来作为当前视图的地址,改变#号后的参数，页面并不会重载。）
+**优点** ： 传输数据少（不会频繁更新的代码由前端直接缓存起来），局部刷新服务可以不中断， 前端可按mvc的模式更好地模块化开发
+**缺点** ： 首次加载数据大耗时长，极差的SEO，导航需要人为处理（页面前进后退） 
+
+
+某些浏览器具备一些高级特性，可以提高web应用的用户体验
