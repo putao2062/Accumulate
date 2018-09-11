@@ -24,6 +24,7 @@
 
 ## 三大前端框架
 > 克服HTML在构建应用上的不足而设计的框架
+> [http://web.jobbole.com/89374/](JS 框架比较：AngularJS vs ReactJS vs EmberJS)  2016年的一篇博文，表格列举这几个框架的区别，可以看看
 
 ### React
 
@@ -36,6 +37,11 @@
 ### AngularJS
 
 > [AngularJs-中文网](http://www.angularjs.net.cn/)
+
+### emberjs
+
+> [emberjs官网](https://emberjs.com/) logo是个仓鼠....
+> [w3cschool里的emberjs的教程](https://www.w3cschool.cn/emberjs/emberjs_applications.html)
 
 ## 单页应用与多页应用
 
@@ -59,3 +65,6 @@
 2、 seo问题：可以采用prerender服务 （服务端预渲染，在服务端的一个js 引擎把内容填充完之后再广播给爬虫phantomjs）
 3、css命名冲突：使用css预处理，css命名规范
 4、 前进、后退、地址栏、书签：使用程序进行管理
+
+[持续部署单页应用的7大技巧](https://www.jianshu.com/p/6185a9bfd9eb)
+
