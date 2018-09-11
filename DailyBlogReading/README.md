@@ -4,6 +4,7 @@
 
 1. [从html5Canvas海草舞代码解读中发现的github链接继而找到的博客](https://rosszurowski.com/)   沉稳风格英文
 2. [从百度webpack不适用的场景阅读转载博客时发现的博客](http://refined-x.com/)  简约黑白风格 中文
+3. [持续部署单页应用的7大技巧](https://blog.codeship.com/continuously-deploying-single-page-apps/) 国外的一个博客网，其中的一篇博客
 
 ## 多读几遍
 
