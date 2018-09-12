@@ -19,3 +19,5 @@
 ## 布局
 
 > [CSS全屏布局的6种方式](https://www.cnblogs.com/xiaohuochai/p/5458068.html) 
+
+> [CSS等高布局的7种方式](http://www.cnblogs.com/xiaohuochai/p/5457127.html)
