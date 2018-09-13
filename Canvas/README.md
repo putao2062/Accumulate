@@ -61,7 +61,7 @@ var base64 = canvas.toDataURL("image/png");
 ```
 
 ```
-canvas转blob
+//canvas转blob
 _canvas.toBlob(function(blob) {
 			console.log(blob.size);
 }, "image/jpeg");
@@ -86,3 +86,23 @@ function dataURItoBlob(base64Data) {
 }
 
 ```
+## 数据库储存图片的方案抉择
+
+储存图片的做法有两种：
+
+1. 把图片直接以二进制形式储存在数据库中，blob
+
+2. 图片储存在磁盘上，数据库字段保存的是图片的路径
+
+第一种方法要考虑数据库的类型和版本，文件过大可以使用文件流，读图片要经过二进制转换。 缺点是对数据库有要求，影响数据库的速度和性能;优点是信息好维护
+
+第二种方法，在B/S系统中使用的比较多。优点：数据库只需存路径，缺点：多客户端，数据不好维护(文件储存路径设计好之后应该好维护吧)
+
+**几篇可能有用的博文
+
+[把图片保存到数据库中和从数据库中读取图片--项目琐碎总结](https://www.cnblogs.com/ysyn/p/3660131.html)
+
+[关于图片或者文件在数据库的存储方式归纳](https://www.cnblogs.com/xlz307/p/3467816.html)
+
+
+
