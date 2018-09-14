@@ -10,7 +10,7 @@
 ## 前端收藏夹
 
 1. [front-end-collect](https://github.com/foru17/front-end-collect) 
-2. [f2e-awesome-knowledge](https://github.com/foru17/front-end-collect) 
+2. [f2e-awesome-knowledge](https://github.com/f2e-awesome/knowledge) 
 
 ## 多读几遍
 
