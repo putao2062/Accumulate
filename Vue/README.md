@@ -8,6 +8,8 @@
 
 > [vuex](https://vuex.vuejs.org/zh/guide/)  vue 状态（state）  
 
+> [vue-cli](https://cli.vuejs.org/zh/) vue.js开发的标准工具
+
 
 ## vue 官网示例
 
