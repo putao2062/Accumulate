@@ -7,6 +7,11 @@
 3. [持续部署单页应用的7大技巧](https://blog.codeship.com/continuously-deploying-single-page-apps/) 国外的一个博客网，其中的一篇博客
 4. [小火柴前端手册](https://xiaohuochai.site/) [小火柴前端小站](https://www.xiaohuochai.cc/) [小火柴博客-博客园](https://www.cnblogs.com/xiaohuochai/)  搜全屏布局时找到的博客，博客博文风格有趣，详实。
 
+## 前端收藏夹
+
+1. [front-end-collect](https://github.com/foru17/front-end-collect) 
+2. [f2e-awesome-knowledge](https://github.com/foru17/front-end-collect) 
+
 ## 多读几遍
 
 ## 博客阅读记录
