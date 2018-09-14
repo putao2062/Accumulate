@@ -4,6 +4,10 @@
 
 > [vue.js教程-菜鸟教程](http://www.runoob.com/vue2/vue-tutorial.html)  简单易懂 可用来快速熟悉vue相关语法
 
+> [vue router](https://router.vuejs.org/zh/) vue 路由
+
+> [vuex](https://vuex.vuejs.org/zh/guide/)  vue 状态（state）  
+
 
 ## vue 官网示例
 
