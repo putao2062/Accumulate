@@ -133,6 +133,11 @@
     > 示例代码在github https://github.com/vuejs/vue-hackernews-2.0
     
     这个示例有结构图
+    
+## 其他示例
+
+1. **[tab页切换](https://jsfiddle.net/Lp20op9o/4848/)** 
+
    
 ##  vue.js 与后台数据交互
 
