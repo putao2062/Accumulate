@@ -76,6 +76,12 @@
 
 > ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图等 
 
+8、 思维导图 MindMaster 
+
+**链接：** http://www.edrawsoft.cn/download/mindmaster/
+
+> MindMaster 是亿图软件最新推出的一款跨平台、多功能的思维导图软件。竞价链接上说是免费
+
 ## Online learning
 
 1、给程序员的设计学习指南
