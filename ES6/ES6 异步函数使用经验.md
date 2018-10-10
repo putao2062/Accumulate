@@ -20,7 +20,15 @@ promises.reduce(function(t,e){return t.then(()=>e);}, Promise.resolve());
 
 // async 函数  for...of  await
 
+async function doSomethingInOrder(urls) {
+    // for(let [e,i] of new Map(urls.map((e,i)=>[e,i]))){
+     for (let [i, e] of urls.entries()) {
+      // const value = await  doSomething(e, i);
+      // console.log(await value);
+     await doSomething(e, i);
 
+  }
+}
 ```
 
 3. 多个异步函数顺序执行 并控制终止
@@ -31,7 +39,7 @@ promises.reduce(function(t,e){return t.then(()=>e);}, Promise.resolve());
 var gen = function*(arg) {
             for (let [i, e] of arg.entries()) {
 
-                yield getSerachResult(e, attributeNames, i).then(vualue => vualue);
+                yield doSomething(e, i).then(vualue => vualue);
 
             }
         }
