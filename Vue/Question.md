@@ -18,3 +18,8 @@
 > [Vue2.0用户权限控制解决方案-segmentfault](https://segmentfault.com/p/1210000012206425)
 > [Vue2.0用户权限控制解决方案-blog](https://refined-x.com/2017/11/28/Vue2.0%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)
 > 这是一个博客链接，这个人自己搭建的博客，可以参考一下   
+
+
+2. 如何不使用构建工具使用vue?
+
+>[如何不用构建工具开发Vue全家桶项目](http://refined-x.com/2017/10/28/%E5%A6%82%E4%BD%95%E4%B8%8D%E7%94%A8%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91Vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E9%A1%B9%E7%9B%AE/) 
