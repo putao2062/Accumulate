@@ -33,3 +33,6 @@
 //有v-model的时候 somevalue  和 radio  的值相等 
 <input type="radio" name="something" id="something" v-model="somevalue"   value="1" />
 ```
+4. vue-cli 和nuxt 的区别
+
+> [仿Nuxt.js的vue-cli多页面配置](https://www.jianshu.com/p/c15bf8e9c7f4)
