@@ -11,6 +11,7 @@
 
 1. [front-end-collect](https://github.com/foru17/front-end-collect) 
 2. [f2e-awesome-knowledge](https://github.com/f2e-awesome/knowledge) 
+3. [前端涉及的所有知识体系](https://blog.csdn.net/fair_feng/article/details/72865140)
 
 ## 多读几遍
 
