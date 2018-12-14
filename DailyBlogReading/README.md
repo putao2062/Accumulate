@@ -99,3 +99,7 @@
   
   看完上面两段渲染流程之后，其区别就在于向服务器请求页面的时候，服务器返回的HTML文档是否是准备好并且完整的。嗯，姑且这么理解吧......
  
+  ### 2018/12/14 
+   > [用JSON-server模拟REST API ](https://www.cnblogs.com/ys-wuhan/p/6387791.html) 
+   
+   使用json-server 模拟api
