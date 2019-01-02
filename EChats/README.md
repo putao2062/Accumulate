@@ -7,3 +7,7 @@
 > [EChats2 example](http://echarts.baidu.com/echarts2/doc/example.html)
 
 > [EChat demo](http://echarts.baidu.com/examples/#chart-type-bar)
+
+## 其他
+
+> [jsgantt-improved](https://jsganttimproved.github.io/jsgantt-improved/)
