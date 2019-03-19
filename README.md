@@ -83,7 +83,14 @@
 9、 css reset 
 **链接：** https://cssreset.com/
 
+10、思维导图软件  
+
+**链接：** https://www.edrawsoft.cn/download/mindmaster/
 > MindMaster 是亿图软件最新推出的一款跨平台、多功能的思维导图软件。竞价链接上说是免费
+
+11、字蛛 fontspider 中文字体压缩器  
+**链接：** http://font-spider.org/
+
 
 ## Online learning
 
