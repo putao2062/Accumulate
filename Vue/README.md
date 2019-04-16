@@ -183,3 +183,14 @@
 > 从头搭建一个服务端渲染的应用是相当复杂的。幸运的是，我们有一个优秀的社区项目 Nuxt.js 让这一切变得非常简单。Nuxt 是一个基于 Vue 生态的更高层的框架，为开发服务端渲染的 Vue 应用提供了极其便利的开发体验。更酷的是，你甚至可以用它来做为静态站生成器。推荐尝试。
 
 **疑问**： 为了seo和页面更快地呈现在客户面前，还有生成静态站......这些以前的技术就可以实现，那使用vue的意义何在.....
+
+## 一些问题
+> [解决npm 安装部分依赖失败问题总结](https://www.jianshu.com/p/dfbed90f7882) 根目录创建.npmrc文件
+
+```
+sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+phantomjs_cdnurl=https://npm.taobao.org/mirrors/phantomjs/
+electron_mirror=https://npm.taobao.org/mirrors/electron/
+registry=https://registry.npm.taobao.org
+
+```
