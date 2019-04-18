@@ -41,6 +41,11 @@ AJAX技术最大优点是可以不用更新整个页面来维护数据，web应�
 
 >  [ js原生态跨域请求与ajax中jsonp跨域请求](https://blog.csdn.net/jiandan217/article/details/51279320) 
 
+## 记录报错
+
+> Request header field x-token is not allowed by Access-Control-Allow-Heade
+> 可参考解决问题的博客 [可参考解决问题的博客](https://blog.csdn.net/u012178818/article/details/80243241)
+
 
 
 
