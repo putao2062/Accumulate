@@ -28,3 +28,5 @@
 > callback: Function
 
 
+## 百度efe 前端规范
+>  [百度efe 前端规范](https://github.com/ecomfe/spec)
