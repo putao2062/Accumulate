@@ -30,3 +30,6 @@
 
 ## 百度efe 前端规范
 >  [百度efe 前端规范](https://github.com/ecomfe/spec)
+
+## 你必须知道的git分支开发规范
+[你必须知道的git分支开发规范](https://www.cnblogs.com/hezhiying/p/9292314.html)
