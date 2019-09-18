@@ -33,3 +33,4 @@
 
 ## 你必须知道的git分支开发规范
 [你必须知道的git分支开发规范](https://www.cnblogs.com/hezhiying/p/9292314.html)
+[Git分支模型和开发规范](https://blog.csdn.net/leel0330/article/details/80415859)
