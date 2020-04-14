@@ -91,6 +91,8 @@
 11、字蛛 fontspider 中文字体压缩器  
 **链接：** http://font-spider.org/
 
+12、在线ip，域名  cdn 查询工具
+**链接:** https://www.ipaddress.com/
 
 ## Online learning
 
